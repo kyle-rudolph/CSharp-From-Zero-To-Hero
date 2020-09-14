@@ -7,10 +7,11 @@ namespace BootCamp.Chapter
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            int age;
-            double height;
-            int weight;
             string name;
+            int age;
+            int weight;
+            double height;
+            
 
             Console.WriteLine("Enter your name: ");
             name = Console.ReadLine();
